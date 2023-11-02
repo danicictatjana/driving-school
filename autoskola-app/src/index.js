@@ -19,7 +19,7 @@ const App = () => {
               JWD
             </Navbar.Brand>
             {/*className="mr-auto" podesi ovu grupu Nav Link-ova da se "rasire" sto je vise moguce,
-            i zbog toga je dugme Log in/Log out skroz sa leve strane*/}
+            i zbog toga je dugme Log in/Log out skroz sa leve strane byvyvyvyvyvyvy*/}
             <Nav className="mr-auto">
               <Nav.Link as={Link} to="/polaznici">
                 Polaznici
